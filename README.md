@@ -27,12 +27,14 @@ berikut syntax untuk text_widget
 ![Screenshot langkah6](dokumentasi/6.PNG)
 
 Berikut main dan hasilnya
+
 ![Screenshot langkah7](dokumentasi/8.PNG)
 
 ![Screenshot langkah8](dokumentasi/hasil%20text.PNG)
 
 Membuat image_widget : buat file baru pada folder lib dengan nama image_widget
 berikut syntax untuk image widget
+
 ![Screenshot langkah9](dokumentasi/7.PNG)
 
 Berikut main dan hasilnya
